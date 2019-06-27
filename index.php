@@ -1,4 +1,4 @@
-<?php 
+/*<?php 
 		require 'header.php';
 		require 'sidebar.php';
 		
@@ -133,4 +133,5 @@
 <?php
 		require 'footer.php';
 		?>
-	
+	*/
+<h1>BookSeeker.com</h1>
